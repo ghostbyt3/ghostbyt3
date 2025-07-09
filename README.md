@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm a security researcher focused on red teaming and web application security, with a strong interest in reverse engineering, exploit development, and low-level Windows internals.
+
 ---
 
 ## 🛠️ Featured Projects
