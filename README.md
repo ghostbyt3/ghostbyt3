@@ -34,17 +34,4 @@ I'm a security researcher focused on red teaming and web application security, w
 
 ---
 
-## ✅ How to Collaborate
-
-- Star & fork repositories ⭐
-- File issues or PRs for new attack vectors, features, or fixes
-- Share feedback on tools or blog posts
-- Collaborate on research (n-day exploits, driver analysis, CVE chains)
-
----
-
-> “Actively debugging the Secure Kernel and exploring VTL 1/Supervisor Shadow Stack integrity!”
-
----
-
 Thanks for stopping by! I’m always up for discussing kernel internals, reverse-engineering, and offensive tooling. 🚀
