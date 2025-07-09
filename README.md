@@ -43,7 +43,7 @@ I'm a security researcher focused on red teaming and web application security, w
 
 ---
 
-> “Actively debugging the Secure Kernel and exploring VTL 1/Supervisor Shadow Stack integrity!” :contentReference[oaicite:5]{index=5}
+> “Actively debugging the Secure Kernel and exploring VTL 1/Supervisor Shadow Stack integrity!”
 
 ---
 
