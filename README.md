@@ -6,14 +6,11 @@ I'm a security researcher focused on red teaming and web application security, w
 
 ## 🛠️ Featured Projects
 
-- **[WinDriver‑EXP](https://github.com/ghostbyt3/WinDriver-EXP)**  
-     A repository of Proof-of-Concepts (PoCs) for vulnerable Windows drivers, written by me.
+- **[WinDriver‑EXP](https://github.com/ghostbyt3/WinDriver-EXP)** - A repository of Proof-of-Concepts (PoCs) for vulnerable Windows drivers, written by me.
 
-- **[BYOVDFinder](https://github.com/ghostbyt3/BYOVDFinder)**  
-    Identifies LOLDrivers that are not blocked by the active HVCI policy — ideal for BYOVD scenarios.
+- **[BYOVDFinder](https://github.com/ghostbyt3/BYOVDFinder)** - Identifies LOLDrivers that are not blocked by the active HVCI policy — ideal for BYOVD scenarios.
 
-- **[Patch‑Tuesday](https://github.com/ghostbyt3/patch-tuesday)**  
-    A site that efficiently tracks Microsoft Patch Tuesday updates for vulnerability analysis and patch diffing. The full website is published at [patch-tuesday.pwnfuzz.com](https://patch-tuesday.pwnfuzz.com).
+- **[Patch‑Tuesday](https://github.com/ghostbyt3/patch-tuesday)** - A site that efficiently tracks Microsoft Patch Tuesday updates for vulnerability analysis and patch diffing. The full website is published at [patch-tuesday.pwnfuzz.com](https://patch-tuesday.pwnfuzz.com).
 
 ---
 
