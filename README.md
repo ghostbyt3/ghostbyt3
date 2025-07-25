@@ -12,6 +12,8 @@ I'm a security researcher focused on red teaming and web application security, w
 
 - **[Patch‑Tuesday](https://github.com/ghostbyt3/patch-tuesday)** - A site that efficiently tracks Microsoft Patch Tuesday updates for vulnerability analysis and patch diffing. The full website is published at [patch-tuesday.pwnfuzz.com](https://patch-tuesday.pwnfuzz.com).
 
+- **[BYOVD Watchdog](https://github.com/pwnfuzz/byovd-watchdog)** - Real-time analysis of LOLDrivers against Microsoft's HVCI blocklist. The full website is published at [byovd-watchdog.pwnfuzz.com](https://byovd-watchdog.pwnfuzz.com).
+
 ---
 
 ## 💡 Blog & Research
