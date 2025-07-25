@@ -19,7 +19,7 @@ I'm a security researcher focused on red teaming and web application security, w
 ## 💡 Blog & Research
 
 - I publish my own technical research and learning notes on [ghostbyt3.github.io](https://ghostbyt3.github.io/). The content ranges from Windows kernel internals and exploit techniques to deep dives on specific CVEs and personal notes on topics I’m currently exploring.
-- CTF write-ups and content related to web exploitation and red teaming can be found on my other blog at [ctf.pwnfuzz.com](https://labs.pwnfuzz.com).
+- CTF write-ups and content related to web exploitation and red teaming can be found on my other blog at [ctf.pwnfuzz.com](https://ctf.pwnfuzz.com).
 - In parallel, I co-manage [labs.pwnfuzz.com](https://labs.pwnfuzz.com), which serves as a platform for vulnerability research under the PwnFuzz organization. There, we publish Patch Tuesday breakdowns, vulnerability write-ups, and n-day exploit analyses.
 
 ---
